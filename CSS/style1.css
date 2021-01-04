@@ -1,4 +1,18 @@
-header {
-    width : 100%;
-    background-color : LightBlue
+* {
+    font-family: 'Montserrat', sans-serif;
+  }
+html, body {
+    margin: 0;
+    padding: 0;
+}
+body header,
+body footer {
+  width: 100%;
+  background-color: darkslategray;
+}
+.inner {
+    margin-top: 0%;
+}
+.h1Header {
+    margin: auto;
 }
